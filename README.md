@@ -17,7 +17,7 @@ git clone git@github.com:denerslemos/XeXeSkim.git
 cd XeXeSkim
 mkdir cond
 ```
-Before compile the code you must check the [sub_skim.sh](https://github.com/denerslemos/XeXeSkim/blob/main/sub_skim.sh) lines 4 (CMSSW/src) and 6 (.../XeXeSkims) and replace by your own folders.
+Before compile the code you must check the [sub_skim.sh](https://github.com/denerslemos/XeXeSkim/blob/main/sub_skim.sh) lines 4 (CMSSW/src) and 6 (.../XeXeSkim) and replace by your own folders.
 
 Once this steps are done you can compile the code with
 ```

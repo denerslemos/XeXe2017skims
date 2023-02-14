@@ -1,6 +1,6 @@
 # XeXe skim code using HTCondor
 
-Code to produce jets and tracks from the CMS HiForest
+Code to produce jets and tracks from the CMS HiForest. Setup here: https://github.com/denerslemos/XeXe_repo
 
 ## Intructions
 

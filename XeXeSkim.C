@@ -38,7 +38,7 @@ void XeXeSkim(TString input_file, TString ouputfile, int isMC){
 
 	// Read the input file(s)
 	fstream inputfile;
-	inputfile.open(Form("%s",input_file.Data()), ios::in);
+	inputfile.open(Form("root://osg-se.sprace.org.br/%s",input_file.Data()), ios::in);
 	if(!inputfile.is_open()){cout << "List of input files not founded!" << endl; return;}{cout << "List of input files founded! --> " << input_file.Data() << endl;}
 
 	// Make a chain and a vector of file names

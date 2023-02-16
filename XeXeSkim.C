@@ -17,7 +17,7 @@ void XeXeSkim(TString input_file, TString ouputfile, int isMC){
 	bool is_MC; if(isMC == 0){is_MC = false;}else{is_MC = true;}
 
 	float jetptmin = 30.0;
-	float jetetamin = 2.1;
+	float jetetamin = 3.0;
 
 	if(is_MC){
 		jetptmin = 0.0;

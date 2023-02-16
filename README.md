@@ -15,7 +15,6 @@ Inside of the src folder, download the code using
 ```
 git clone git@github.com:denerslemos/XeXe2017skims.git
 cd XeXe2017skims
-mkdir cond
 ```
 Before compile the code you must check the [sub_skim.sh](https://github.com/denerslemos/XeXe2017skims/blob/main/sub_skim.sh) lines 4 (CMSSW/src) and 6 (.../XeXe2017skims) and replace by your own folders.
 
